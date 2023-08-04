@@ -1,4 +1,4 @@
-# A-Frame Project 1 --- irridatehyderabad
+# A-Frame 1 --- irridatehyderabad
 live website: https://irradiate-hyderabad.glitch.me/
 
 
